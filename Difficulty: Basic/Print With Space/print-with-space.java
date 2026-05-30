@@ -4,7 +4,6 @@ public class Solution {
         String a = scn.next();
         String b = scn.next();
         
-        System.out.println(a+" "+b);
-        
+        System.out.println(a + " "+ b);
     }
 }
